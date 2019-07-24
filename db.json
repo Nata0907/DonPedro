@@ -1,4 +1,5 @@
-[
+{
+	"employees" [
 	{
 		"emp_id": "1",
 		"emp_name": "Ethan Hunt",
@@ -28,3 +29,5 @@
 		"dept_id": "3"
 	}
 ]
+	
+}
