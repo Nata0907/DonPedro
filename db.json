@@ -29,5 +29,47 @@
 		"dept_id": "3"
 	}
 ]
-
+"customers":[
+	{
+		"cust_id": "1",
+		"cust_name": "Maria Anders",
+		"address": "Obere Str. 57",
+		"city": "Berlin",
+		"postal_code": "12209",
+		"country": "Germany"
+	},
+	{
+		"cust_id": "2",
+		"cust_name": "Fran Wilson",
+		"address": "C/ Araquil",
+		"city": " 67",
+		"postal_code": "Madrid",
+		"country": "28023"
+	},
+	{
+		"cust_id": "3",
+		"cust_name": "Dominique Perrier",
+		"address": "25",
+		"city": " rue Lauriston",
+		"postal_code": "Paris",
+		"country": "75016"
+	},
+	{
+		"cust_id": "4",
+		"cust_name": "Martin Blank",
+		"address": "Via Monte Bianco 34",
+		"city": "Turin",
+		"postal_code": "10100",
+		"country": "Italy"
+	},
+	{
+		"cust_id": "5",
+		"cust_name": "Thomas Hardy",
+		"address": "89 Chiaroscuro Rd.",
+		"city": "Portland",
+		"postal_code": "97219",
+		"country": "USA"
+	}
+]
+	
 }
