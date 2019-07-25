@@ -44,5 +44,67 @@
 		"Date of hiring": "03-05-15",
 		"salary": "3850"
 	}
+],
+	"3_NoEmpl": [
+	{
+		"DEPARTMENT": "Customer Service"
+	}
+],
+	"4_AvgOrdVal": [
+	{
+		"Average Order Value": "1943.95"
+	}	
+],
+	"5_Top10": [
+	{
+		"ID": "42",
+		"NAME": "Michael Holz",
+		"TOTAL": "24720.9"
+	},
+	{
+		"ID": "24",
+		"NAME": "Jos Pedro Freyre",
+		"TOTAL": "22504.05"
+	},
+	{
+		"ID": "34",
+		"NAME": "Jean Fresnire",
+		"TOTAL": "17396.400000000001"
+	},
+	{
+		"ID": "19",
+		"NAME": "Diego Roel",
+		"TOTAL": "15992.8"
+	},
+	{
+		"ID": "8",
+		"NAME": "Frdrique Citeaux",
+		"TOTAL": "15607.05"
+	},
+	{
+		"ID": "7",
+		"NAME": "Hanna Moos",
+		"TOTAL": "14198.5"
+	},
+	{
+		"ID": "43",
+		"NAME": "Alejandra Camino",
+		"TOTAL": "11224.15"
+	},
+	{
+		"ID": "6",
+		"NAME": "Christina Aguilera",
+		"TOTAL": "11101.75"
+	},
+	{
+		"ID": "25",
+		"NAME": "Andr Fonseca",
+		"TOTAL": "10783.55"
+	},
+	{
+		"ID": "10",
+		"NAME": "Elizabeth Lincoln",
+		"TOTAL": "10609.15"
+	}
 ]
 }
