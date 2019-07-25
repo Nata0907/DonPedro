@@ -49,5 +49,1101 @@
 	{
 		"DEPARTMENT": "Customer Service"
 	}
+],
+	"4_AvgOrdVal": [
+	{
+		"Average Order Value": "1943.95"
+	}	
+],
+	"5_Top10": [
+	{
+		"ID": "42",
+		"NAME": "Michael Holz",
+		"TOTAL": "24720.9"
+	},
+	{
+		"ID": "24",
+		"NAME": "Jos Pedro Freyre",
+		"TOTAL": "22504.05"
+	},
+	{
+		"ID": "34",
+		"NAME": "Jean Fresnire",
+		"TOTAL": "17396.400000000001"
+	},
+	{
+		"ID": "19",
+		"NAME": "Diego Roel",
+		"TOTAL": "15992.8"
+	},
+	{
+		"ID": "8",
+		"NAME": "Frdrique Citeaux",
+		"TOTAL": "15607.05"
+	},
+	{
+		"ID": "7",
+		"NAME": "Hanna Moos",
+		"TOTAL": "14198.5"
+	},
+	{
+		"ID": "43",
+		"NAME": "Alejandra Camino",
+		"TOTAL": "11224.15"
+	},
+	{
+		"ID": "6",
+		"NAME": "Christina Aguilera",
+		"TOTAL": "11101.75"
+	},
+	{
+		"ID": "25",
+		"NAME": "Andr Fonseca",
+		"TOTAL": "10783.55"
+	},
+	{
+		"ID": "10",
+		"NAME": "Elizabeth Lincoln",
+		"TOTAL": "10609.15"
+	}
+],
+	"6_CustPerCountry": [
+	{
+		"country": "Argentina",
+		"Customer Amount": "4",
+		"Total Sum": "5533.25"
+	},
+	{
+		"country": "Italy",
+		"Customer Amount": "4",
+		"Total Sum": "6133.5"
+	},
+	{
+		"country": "Finland",
+		"Customer Amount": "4",
+		"Total Sum": "7370.5"
+	},
+	{
+		"country": "Austria",
+		"Customer Amount": "7",
+		"Total Sum": "11540.75"
+	},
+	{
+		"country": "Belgium",
+		"Customer Amount": "5",
+		"Total Sum": "11567.7"
+	},
+	{
+		"country": "UK",
+		"Customer Amount": "11",
+		"Total Sum": "12388.15"
+	},
+	{
+		"country": "Denmark",
+		"Customer Amount": "5",
+		"Total Sum": "13033.5"
+	},
+	{
+		"country": "Mexico",
+		"Customer Amount": "9",
+		"Total Sum": "15013.8"
+	},
+	{
+		"country": "Sweden",
+		"Customer Amount": "5",
+		"Total Sum": "20471.650000000001"
+	},
+	{
+		"country": "USA",
+		"Customer Amount": "25",
+		"Total Sum": "29500.6"
+	},
+	{
+		"country": "Switzerland",
+		"Customer Amount": "12",
+		"Total Sum": "31740.400000000001"
+	},
+	{
+		"country": "France",
+		"Customer Amount": "20",
+		"Total Sum": "33924.300000000003"
+	},
+	{
+		"country": "Canada",
+		"Customer Amount": "15",
+		"Total Sum": "33960.15"
+	},
+	{
+		"country": "Brazil",
+		"Customer Amount": "20",
+		"Total Sum": "38537.25"
+	},
+	{
+		"country": "Spain",
+		"Customer Amount": "19",
+		"Total Sum": "53583.6"
+	},
+	{
+		"country": "Germany",
+		"Customer Amount": "33",
+		"Total Sum": "60602.5"
+	}	
+],
+	"7_ProdTotQnt":[
+	{
+		"product_name": "Geitost",
+		"total_quantity": "461"
+	},
+	{
+		"product_name": "Tarte au sucre",
+		"total_quantity": "430"
+	},
+	{
+		"product_name": "Gravad lax",
+		"total_quantity": "377"
+	},
+	{
+		"product_name": "Sirop drable",
+		"total_quantity": "346"
+	},
+	{
+		"product_name": "Carnarvon Tigers",
+		"total_quantity": "341"
+	},
+	{
+		"product_name": "Alice Mutton",
+		"total_quantity": "338"
+	},
+	{
+		"product_name": "Rd Kaviar",
+		"total_quantity": "338"
+	},
+	{
+		"product_name": "Wimmers gute Semmelkndel",
+		"total_quantity": "325"
+	},
+	{
+		"product_name": "Steeleye Stout",
+		"total_quantity": "316"
+	},
+	{
+		"product_name": "Cajun Seasoning",
+		"total_quantity": "296"
+	},
+	{
+		"product_name": "Gnocchi di nonna Alice",
+		"total_quantity": "295"
+	},
+	{
+		"product_name": "Singaporean Hokkien Fried Mee",
+		"total_quantity": "276"
+	},
+	{
+		"product_name": "Jacks New England Clam Chowder",
+		"total_quantity": "272"
+	},
+	{
+		"product_name": "Escargots de Bourgogne",
+		"total_quantity": "269"
+	},
+	{
+		"product_name": "Longlife Tofu",
+		"total_quantity": "265"
+	},
+	{
+		"product_name": "Rssle Sauerkraut",
+		"total_quantity": "253"
+	},
+	{
+		"product_name": "Pt chinois",
+		"total_quantity": "251"
+	},
+	{
+		"product_name": "Boston Crab Meat",
+		"total_quantity": "239"
+	},
+	{
+		"product_name": "Ravioli Angelo",
+		"total_quantity": "238"
+	},
+	{
+		"product_name": "Rodneys Marmalade",
+		"total_quantity": "233"
+	},
+	{
+		"product_name": "Laughing Lumberjack Lager",
+		"total_quantity": "210"
+	},
+	{
+		"product_name": "Louisiana Fiery Hot Pepper Sauce",
+		"total_quantity": "209"
+	},
+	{
+		"product_name": "Outback Lager",
+		"total_quantity": "199"
+	},
+	{
+		"product_name": "Cte de Blaye",
+		"total_quantity": "198"
+	},
+	{
+		"product_name": "Nord-Ost Matjeshering",
+		"total_quantity": "189"
+	},
+	{
+		"product_name": "Lakkalikri",
+		"total_quantity": "186"
+	},
+	{
+		"product_name": "Flotemysost",
+		"total_quantity": "184"
+	},
+	{
+		"product_name": "Manjimup Dried Apples",
+		"total_quantity": "180"
+	},
+	{
+		"product_name": "Gumbr Gummibrchen",
+		"total_quantity": "178"
+	},
+	{
+		"product_name": "Spegesild",
+		"total_quantity": "178"
+	},
+	{
+		"product_name": "Queso Manchego La Pastora",
+		"total_quantity": "170"
+	},
+	{
+		"product_name": "Mascarpone Fabioli",
+		"total_quantity": "170"
+	},
+	{
+		"product_name": "Gorgonzola Telino",
+		"total_quantity": "168"
+	},
+	{
+		"product_name": "Raclette Courdavault",
+		"total_quantity": "168"
+	},
+	{
+		"product_name": "Louisiana Hot Spiced Okra",
+		"total_quantity": "167"
+	},
+	{
+		"product_name": "Guaran Fantstica",
+		"total_quantity": "165"
+	},
+	{
+		"product_name": "Mozzarella di Giovanni",
+		"total_quantity": "164"
+	},
+	{
+		"product_name": "Aniseed Syrup",
+		"total_quantity": "159"
+	},
+	{
+		"product_name": "Camembert Pierrot",
+		"total_quantity": "155"
+	},
+	{
+		"product_name": "Gustafs Knckebrd",
+		"total_quantity": "147"
+	},
+	{
+		"product_name": "Chocolade",
+		"total_quantity": "145"
+	},
+	{
+		"product_name": "Original Frankfurter grne Soe",
+		"total_quantity": "144"
+	},
+	{
+		"product_name": "Genen Shouyu",
+		"total_quantity": "143"
+	},
+	{
+		"product_name": "Mishi Kobe Niku",
+		"total_quantity": "140"
+	},
+	{
+		"product_name": "Ipoh Coffee",
+		"total_quantity": "139"
+	},
+	{
+		"product_name": "Rogede sild",
+		"total_quantity": "136"
+	},
+	{
+		"product_name": "Grandmas Boysenberry Spread",
+		"total_quantity": "129"
+	},
+	{
+		"product_name": "Perth Pasties",
+		"total_quantity": "123"
+	},
+	{
+		"product_name": "Inlagd Sill",
+		"total_quantity": "110"
+	},
+	{
+		"product_name": "Gumbo Mix",
+		"total_quantity": "107"
+	},
+	{
+		"product_name": "Teatime Chocolate Biscuits",
+		"total_quantity": "106"
+	},
+	{
+		"product_name": "Rodneys Scones",
+		"total_quantity": "106"
+	},
+	{
+		"product_name": "Vegie-spread",
+		"total_quantity": "106"
+	},
+	{
+		"product_name": "Maxilaku",
+		"total_quantity": "101"
+	},
+	{
+		"product_name": "Tofu",
+		"total_quantity": "92"
+	},
+	{
+		"product_name": "Thringer Rostbratwurst",
+		"total_quantity": "90"
+	},
+	{
+		"product_name": "Scottish Longbreads",
+		"total_quantity": "90"
+	},
+	{
+		"product_name": "Queso Cabrales",
+		"total_quantity": "85"
+	},
+	{
+		"product_name": "Green Tea",
+		"total_quantity": "80"
+	},
+	{
+		"product_name": "Schoggi Schokolade",
+		"total_quantity": "71"
+	},
+	{
+		"product_name": "Valkoinen suklaa",
+		"total_quantity": "70"
+	},
+	{
+		"product_name": "Filo Mix",
+		"total_quantity": "70"
+	},
+	{
+		"product_name": "Gula Malacca",
+		"total_quantity": "67"
+	},
+	{
+		"product_name": "Tourtire",
+		"total_quantity": "63"
+	},
+	{
+		"product_name": "Sasquatch Ale",
+		"total_quantity": "52"
+	},
+	{
+		"product_name": "Rhnbru Klosterbier",
+		"total_quantity": "45"
+	},
+	{
+		"product_name": "Chartreuse verte",
+		"total_quantity": "39"
+	},
+	{
+		"product_name": "Uncle Bobs Organic Dried Pears",
+		"total_quantity": "36"
+	},
+	{
+		"product_name": "Konbu",
+		"total_quantity": "27"
+	},
+	{
+		"product_name": "Northwoods Cranberry Sauce",
+		"total_quantity": "25"
+	},
+	{
+		"product_name": "Pavlova",
+		"total_quantity": "25"
+	},
+	{
+		"product_name": "Ikura",
+		"total_quantity": "20"
+	},
+	{
+		"product_name": "Tunnbrd",
+		"total_quantity": "18"
+	},
+	{
+		"product_name": "Zaanse koeken",
+		"total_quantity": "15"
+	},
+	{
+		"product_name": "Gudbrandsdalsost",
+		"total_quantity": "5"
+	}
+],
+	"8_SalePerCat":[
+	{
+		"Category": "Beverages",
+		"Total Quantity": "1629",
+		"Total Sum": "77489.25"
+	},
+	{
+		"Category": "Seafood",
+		"Total Quantity": "2496",
+		"Total Sum": "57796.15"
+	},
+	{
+		"Category": "Confections",
+		"Total Quantity": "1570",
+		"Total Sum": "57432.7"
+	},
+	{
+		"Category": "Meat/Poultry",
+		"Total Quantity": "1005",
+		"Total Sum": "48390.35"
+	},
+	{
+		"Category": "Condiments",
+		"Total Quantity": "1898",
+		"Total Sum": "41850"
+	},
+	{
+		"Category": "Dairy Products",
+		"Total Quantity": "1730",
+		"Total Sum": "41290.7"
+	},
+	{
+		"Category": "Grains/Cereals",
+		"Total Quantity": "1369",
+		"Total Sum": "34260.25"
+	},
+	{
+		"Category": "Produce",
+		"Total Quantity": "826",
+		"Total Sum": "26945.8"
+	}
+],
+	"9_TotQntTotSum":[
+	{
+		"supplier_name": "Aux joyeux ecclsiastiques",
+		"product_name": "Flotemysost",
+		"total_quantity": "184",
+		"buying_sum": "3956"
+	},
+	{
+		"supplier_name": "Aux joyeux ecclsiastiques",
+		"product_name": "Geitost",
+		"total_quantity": "461",
+		"buying_sum": "1152.5"
+	},
+	{
+		"supplier_name": "Aux joyeux ecclsiastiques",
+		"product_name": "Gudbrandsdalsost",
+		"total_quantity": "5",
+		"buying_sum": "180"
+	},
+	{
+		"supplier_name": "Aux joyeux ecclsiastiques",
+		"product_name": "Tarte au sucre",
+		"total_quantity": "430",
+		"buying_sum": "21199"
+	},
+	{
+		"supplier_name": "Bigfoot Breweries",
+		"product_name": "Nord-Ost Matjeshering",
+		"total_quantity": "189",
+		"buying_sum": "4725"
+	},
+	{
+		"supplier_name": "Bigfoot Breweries",
+		"product_name": "Raclette Courdavault",
+		"total_quantity": "168",
+		"buying_sum": "9240"
+	},
+	{
+		"supplier_name": "Bigfoot Breweries",
+		"product_name": "Sirop drable",
+		"total_quantity": "346",
+		"buying_sum": "9861"
+	},
+	{
+		"supplier_name": "Escargots Nouveaux",
+		"product_name": "Lakkalikri",
+		"total_quantity": "186",
+		"buying_sum": "3348"
+	},
+	{
+		"supplier_name": "Escargots Nouveaux",
+		"product_name": "Maxilaku",
+		"total_quantity": "101",
+		"buying_sum": "2020"
+	},
+	{
+		"supplier_name": "Escargots Nouveaux",
+		"product_name": "Valkoinen suklaa",
+		"total_quantity": "70",
+		"buying_sum": "1137.5"
+	},
+	{
+		"supplier_name": "Exotic Liquids",
+		"product_name": "Aniseed Syrup",
+		"total_quantity": "159",
+		"buying_sum": "1590"
+	},
+	{
+		"supplier_name": "Exotic Liquids",
+		"product_name": "Green Tea",
+		"total_quantity": "80",
+		"buying_sum": "1440"
+	},
+	{
+		"supplier_name": "Formaggi Fortini s.r.l.",
+		"product_name": "Gumbr Gummibrchen",
+		"total_quantity": "178",
+		"buying_sum": "5562.5"
+	},
+	{
+		"supplier_name": "Formaggi Fortini s.r.l.",
+		"product_name": "Schoggi Schokolade",
+		"total_quantity": "71",
+		"buying_sum": "3053"
+	},
+	{
+		"supplier_name": "Forts drables",
+		"product_name": "Pt chinois",
+		"total_quantity": "251",
+		"buying_sum": "6024"
+	},
+	{
+		"supplier_name": "Forts drables",
+		"product_name": "Tourtire",
+		"total_quantity": "63",
+		"buying_sum": "469.35"
+	},
+	{
+		"supplier_name": "Gai pturage",
+		"product_name": "Filo Mix",
+		"total_quantity": "70",
+		"buying_sum": "490"
+	},
+	{
+		"supplier_name": "Gai pturage",
+		"product_name": "Manjimup Dried Apples",
+		"total_quantity": "180",
+		"buying_sum": "9540"
+	},
+	{
+		"supplier_name": "Gai pturage",
+		"product_name": "Perth Pasties",
+		"total_quantity": "123",
+		"buying_sum": "3997.5"
+	},
+	{
+		"supplier_name": "Gday",
+		"product_name": " Mate",
+		"total_quantity": "Rogede sild",
+		"buying_sum": "136"
+	},
+	{
+		"supplier_name": "Gday",
+		"product_name": " Mate",
+		"total_quantity": "Spegesild",
+		"buying_sum": "178"
+	},
+	{
+		"supplier_name": "Grandma Kellys Homestead",
+		"product_name": "Grandmas Boysenberry Spread",
+		"total_quantity": "129",
+		"buying_sum": "3225"
+	},
+	{
+		"supplier_name": "Grandma Kellys Homestead",
+		"product_name": "Northwoods Cranberry Sauce",
+		"total_quantity": "25",
+		"buying_sum": "1000"
+	},
+	{
+		"supplier_name": "Grandma Kellys Homestead",
+		"product_name": "Uncle Bobs Organic Dried Pears",
+		"total_quantity": "36",
+		"buying_sum": "1080"
+	},
+	{
+		"supplier_name": "Heli Swaren GmbH & Co. KG",
+		"product_name": "Camembert Pierrot",
+		"total_quantity": "155",
+		"buying_sum": "5270"
+	},
+	{
+		"supplier_name": "Heli Swaren GmbH & Co. KG",
+		"product_name": "Guaran Fantstica",
+		"total_quantity": "165",
+		"buying_sum": "742.5"
+	},
+	{
+		"supplier_name": "Karkki Oy",
+		"product_name": "Gula Malacca",
+		"total_quantity": "67",
+		"buying_sum": "1303.15"
+	},
+	{
+		"supplier_name": "Karkki Oy",
+		"product_name": "Ipoh Coffee",
+		"total_quantity": "139",
+		"buying_sum": "6394"
+	},
+	{
+		"supplier_name": "Karkki Oy",
+		"product_name": "Singaporean Hokkien Fried Mee",
+		"total_quantity": "276",
+		"buying_sum": "3864"
+	},
+	{
+		"supplier_name": "Leka Trading",
+		"product_name": "Gravad lax",
+		"total_quantity": "377",
+		"buying_sum": "9802"
+	},
+	{
+		"supplier_name": "Leka Trading",
+		"product_name": "Inlagd Sill",
+		"total_quantity": "110",
+		"buying_sum": "2090"
+	},
+	{
+		"supplier_name": "Leka Trading",
+		"product_name": "Rd Kaviar",
+		"total_quantity": "338",
+		"buying_sum": "5070"
+	},
+	{
+		"supplier_name": "Lyngbysild",
+		"product_name": "Chartreuse verte",
+		"total_quantity": "39",
+		"buying_sum": "702"
+	},
+	{
+		"supplier_name": "Lyngbysild",
+		"product_name": "Cte de Blaye",
+		"total_quantity": "198",
+		"buying_sum": "52173"
+	},
+	{
+		"supplier_name": "Ma Maison",
+		"product_name": "Chocolade",
+		"total_quantity": "145",
+		"buying_sum": "1848.75"
+	},
+	{
+		"supplier_name": "Ma Maison",
+		"product_name": "Zaanse koeken",
+		"total_quantity": "15",
+		"buying_sum": "142.5"
+	},
+	{
+		"supplier_name": "Mayumis",
+		"product_name": "Queso Cabrales",
+		"total_quantity": "85",
+		"buying_sum": "1785"
+	},
+	{
+		"supplier_name": "Mayumis",
+		"product_name": "Queso Manchego La Pastora",
+		"total_quantity": "170",
+		"buying_sum": "6460"
+	},
+	{
+		"supplier_name": "Mayumis",
+		"product_name": "Ravioli Angelo",
+		"total_quantity": "238",
+		"buying_sum": "4641"
+	},
+	{
+		"supplier_name": "New England Seafood Cannery",
+		"product_name": "Laughing Lumberjack Lager",
+		"total_quantity": "210",
+		"buying_sum": "2940"
+	},
+	{
+		"supplier_name": "New England Seafood Cannery",
+		"product_name": "Sasquatch Ale",
+		"total_quantity": "52",
+		"buying_sum": "728"
+	},
+	{
+		"supplier_name": "New England Seafood Cannery",
+		"product_name": "Steeleye Stout",
+		"total_quantity": "316",
+		"buying_sum": "5688"
+	},
+	{
+		"supplier_name": "New Orleans Cajun Delights",
+		"product_name": "Cajun Seasoning",
+		"total_quantity": "296",
+		"buying_sum": "6512"
+	},
+	{
+		"supplier_name": "New Orleans Cajun Delights",
+		"product_name": "Escargots de Bourgogne",
+		"total_quantity": "269",
+		"buying_sum": "3564.25"
+	},
+	{
+		"supplier_name": "New Orleans Cajun Delights",
+		"product_name": "Gumbo Mix",
+		"total_quantity": "107",
+		"buying_sum": "2284.44"
+	},
+	{
+		"supplier_name": "New Orleans Cajun Delights",
+		"product_name": "Louisiana Fiery Hot Pepper Sauce",
+		"total_quantity": "209",
+		"buying_sum": "4493.5"
+	},
+	{
+		"supplier_name": "New Orleans Cajun Delights",
+		"product_name": "Louisiana Hot Spiced Okra",
+		"total_quantity": "167",
+		"buying_sum": "2839"
+	},
+	{
+		"supplier_name": "Norske Meierier",
+		"product_name": "Original Frankfurter grne Soe",
+		"total_quantity": "144",
+		"buying_sum": "1872"
+	},
+	{
+		"supplier_name": "Norske Meierier",
+		"product_name": "Rhnbru Klosterbier",
+		"total_quantity": "45",
+		"buying_sum": "348.75"
+	},
+	{
+		"supplier_name": "Norske Meierier",
+		"product_name": "Rssle Sauerkraut",
+		"total_quantity": "253",
+		"buying_sum": "11536.8"
+	},
+	{
+		"supplier_name": "Norske Meierier",
+		"product_name": "Thringer Rostbratwurst",
+		"total_quantity": "90",
+		"buying_sum": "11137.5"
+	},
+	{
+		"supplier_name": "Norske Meierier",
+		"product_name": "Wimmers gute Semmelkndel",
+		"total_quantity": "325",
+		"buying_sum": "10806.25"
+	},
+	{
+		"supplier_name": "PB Knckebrd AB",
+		"product_name": "Rodneys Marmalade",
+		"total_quantity": "233",
+		"buying_sum": "18873"
+	},
+	{
+		"supplier_name": "PB Knckebrd AB",
+		"product_name": "Rodneys Scones",
+		"total_quantity": "106",
+		"buying_sum": "1060"
+	},
+	{
+		"supplier_name": "PB Knckebrd AB",
+		"product_name": "Scottish Longbreads",
+		"total_quantity": "90",
+		"buying_sum": "1125"
+	},
+	{
+		"supplier_name": "PB Knckebrd AB",
+		"product_name": "Teatime Chocolate Biscuits",
+		"total_quantity": "106",
+		"buying_sum": "975.2"
+	},
+	{
+		"supplier_name": "Pavlova",
+		"product_name": " Ltd.",
+		"total_quantity": "Genen Shouyu",
+		"buying_sum": "143"
+	},
+	{
+		"supplier_name": "Pavlova",
+		"product_name": " Ltd.",
+		"total_quantity": "Konbu",
+		"buying_sum": "27"
+	},
+	{
+		"supplier_name": "Pavlova",
+		"product_name": " Ltd.",
+		"total_quantity": "Tofu",
+		"buying_sum": "92"
+	},
+	{
+		"supplier_name": "Refrescos Americanas LTDA",
+		"product_name": "Gnocchi di nonna Alice",
+		"total_quantity": "295",
+		"buying_sum": "11210"
+	},
+	{
+		"supplier_name": "Refrescos Americanas LTDA",
+		"product_name": "Gustafs Knckebrd",
+		"total_quantity": "147",
+		"buying_sum": "3087"
+	},
+	{
+		"supplier_name": "Refrescos Americanas LTDA",
+		"product_name": "Tunnbrd",
+		"total_quantity": "18",
+		"buying_sum": "162"
+	},
+	{
+		"supplier_name": "Specialty Biscuits",
+		"product_name": " Ltd.",
+		"total_quantity": "Alice Mutton",
+		"buying_sum": "338"
+	},
+	{
+		"supplier_name": "Specialty Biscuits",
+		"product_name": " Ltd.",
+		"total_quantity": "Carnarvon Tigers",
+		"buying_sum": "341"
+	},
+	{
+		"supplier_name": "Specialty Biscuits",
+		"product_name": " Ltd.",
+		"total_quantity": "Outback Lager",
+		"buying_sum": "199"
+	},
+	{
+		"supplier_name": "Specialty Biscuits",
+		"product_name": " Ltd.",
+		"total_quantity": "Pavlova",
+		"buying_sum": "25"
+	},
+	{
+		"supplier_name": "Specialty Biscuits",
+		"product_name": " Ltd.",
+		"total_quantity": "Vegie-spread",
+		"buying_sum": "106"
+	},
+	{
+		"supplier_name": "Svensk Sjfda AB",
+		"product_name": "Gorgonzola Telino",
+		"total_quantity": "168",
+		"buying_sum": "2100"
+	},
+	{
+		"supplier_name": "Svensk Sjfda AB",
+		"product_name": "Mascarpone Fabioli",
+		"total_quantity": "170",
+		"buying_sum": "5440"
+	},
+	{
+		"supplier_name": "Svensk Sjfda AB",
+		"product_name": "Mozzarella di Giovanni",
+		"total_quantity": "164",
+		"buying_sum": "5707.2"
+	},
+	{
+		"supplier_name": "Tokyo Traders",
+		"product_name": "Ikura",
+		"total_quantity": "20",
+		"buying_sum": "620"
+	},
+	{
+		"supplier_name": "Tokyo Traders",
+		"product_name": "Longlife Tofu",
+		"total_quantity": "265",
+		"buying_sum": "2650"
+	},
+	{
+		"supplier_name": "Tokyo Traders",
+		"product_name": "Mishi Kobe Niku",
+		"total_quantity": "140",
+		"buying_sum": "13580"
+	},
+	{
+		"supplier_name": "Zaanse Snoepfabriek",
+		"product_name": "Boston Crab Meat",
+		"total_quantity": "239",
+		"buying_sum": "4397.6000000000004"
+	},
+	{
+		"supplier_name": "Zaanse Snoepfabriek",
+		"product_name": "Jacks New England Clam Chowder",
+		"total_quantity": "272",
+		"buying_sum": "2624.8"
+	}
+],
+	"10_SupTotalSum":[
+	{
+		"Supplier": "Lyngbysild",
+		"Total Quantity": "237",
+		"Total Sum": "52875"
+	},
+	{
+		"Supplier": "Specialty Biscuits",
+		"Total Quantity": " Ltd.",
+		"Total Sum": "1009"
+	},
+	{
+		"Supplier": "Norske Meierier",
+		"Total Quantity": "857",
+		"Total Sum": "35701.30"
+	},
+	{
+		"Supplier": "Aux joyeux ecclsiastiques",
+		"Total Quantity": "1080",
+		"Total Sum": "26487.5"
+	},
+	{
+		"Supplier": "Bigfoot Breweries",
+		"Total Quantity": "703",
+		"Total Sum": "23826"
+	},
+	{
+		"Supplier": "PB Knckebrd AB",
+		"Total Quantity": "535",
+		"Total Sum": "22033.20"
+	},
+	{
+		"Supplier": "New Orleans Cajun Delights",
+		"Total Quantity": "1048",
+		"Total Sum": "19693.2"
+	},
+	{
+		"Supplier": "Leka Trading",
+		"Total Quantity": "825",
+		"Total Sum": "16962"
+	},
+	{
+		"Supplier": "Tokyo Traders",
+		"Total Quantity": "425",
+		"Total Sum": "16850"
+	},
+	{
+		"Supplier": "Refrescos Americanas LTDA",
+		"Total Quantity": "460",
+		"Total Sum": "14459"
+	},
+	{
+		"Supplier": "Gai pturage",
+		"Total Quantity": "373",
+		"Total Sum": "14027.5"
+	},
+	{
+		"Supplier": "Svensk Sjfda AB",
+		"Total Quantity": "502",
+		"Total Sum": "13247.2"
+	},
+	{
+		"Supplier": "Mayumis",
+		"Total Quantity": "493",
+		"Total Sum": "12886"
+	},
+	{
+		"Supplier": "Karkki Oy",
+		"Total Quantity": "482",
+		"Total Sum": "11561.15"
+	},
+	{
+		"Supplier": "New England Seafood Cannery",
+		"Total Quantity": "578",
+		"Total Sum": "9356"
+	},
+	{
+		"Supplier": "Formaggi Fortini s.r.l.",
+		"Total Quantity": "249",
+		"Total Sum": "8615.5"
+	},
+	{
+		"Supplier": "Zaanse Snoepfabriek",
+		"Total Quantity": "511",
+		"Total Sum": "7022.4"
+	},
+	{
+		"Supplier": "Escargots Nouveaux",
+		"Total Quantity": "357",
+		"Total Sum": "6505.5"
+	},
+	{
+		"Supplier": "Forts drables",
+		"Total Quantity": "314",
+		"Total Sum": "6493.35"
+	},
+	{
+		"Supplier": "Heli Swaren GmbH & Co. KG",
+		"Total Quantity": "320",
+		"Total Sum": "6012.5"
+	},
+	{
+		"Supplier": "Grandma Kellys Homestead",
+		"Total Quantity": "190",
+		"Total Sum": "5305"
+	},
+	{
+		"Supplier": "Pavlova",
+		"Total Quantity": " Ltd.",
+		"Total Sum": "262"
+	},
+	{
+		"Supplier": "Gday",
+		"Total Quantity": " Mate",
+		"Total Sum": "314"
+	},
+	{
+		"Supplier": "Exotic Liquids",
+		"Total Quantity": "239",
+		"Total Sum": "3030"
+	},
+	{
+		"Supplier": "Ma Maison",
+		"Total Quantity": "160",
+		"Total Sum": "1991.25"
+	}
+],
+	"ProdPerCat":[
+	{
+		"category_name": "Produce",
+		"prd_count": "5"
+	},
+	{
+		"category_name": "Meat/Poultry",
+		"prd_count": "6"
+	},
+	{
+		"category_name": "Grains/Cereals",
+		"prd_count": "7"
+	},
+	{
+		"category_name": "Dairy Products",
+		"prd_count": "10"
+	},
+	{
+		"category_name": "Beverages",
+		"prd_count": "11"
+	},
+	{
+		"category_name": "Condiments",
+		"prd_count": "12"
+	},
+	{
+		"category_name": "Confections",
+		"prd_count": "12"
+	},
+	{
+		"category_name": "Seafood",
+		"prd_count": "12"
+	}
 ]
 }
