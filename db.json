@@ -36,13 +36,13 @@
 	"NoDept":[
 	{
 		"NAME": "Martin Blank",
-		"Date of hiring": "06-24-08",
-		"salary": "5600"
+		"DateOfHiring": "06-24-08",
+		"Salary": "5600"
 	},
 	{
 		"NAME": "Laura Callahan",
-		"Date of hiring": "03-05-15",
-		"salary": "3850"
+		"DateOfHiring": "03-05-15",
+		"Salary": "3850"
 	}
 ],
 	"NoEmpl": [
@@ -52,7 +52,7 @@
 ],
 	"AvgOrdVal": [
 	{
-		"Average Order Value": "1943.95"
+		"AverageOrderValue": "1943.95"
 	}	
 ],
 	"Top10": [
@@ -69,7 +69,7 @@
 	{
 		"ID": "34",
 		"NAME": "Jean Fresnire",
-		"TOTAL": "17396.400000000001"
+		"TOTAL": "17396.40"
 	},
 	{
 		"ID": "19",
