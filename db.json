@@ -1,5 +1,5 @@
 { 
-	"1_DEPT_EMP": [
+	"DEPT_EMP": [
 	{
 		"DEPARTMENT": "Administration",
 		"NAME": "Tony Montana"
@@ -33,7 +33,7 @@
 		"NAME": "Steven Buchanan"
 	}
 ],
-	"2_NoDept":[
+	"NoDept":[
 	{
 		"NAME": "Martin Blank",
 		"Date of hiring": "06-24-08",
@@ -45,17 +45,17 @@
 		"salary": "3850"
 	}
 ],
-	"3_NoEmpl": [
+	"NoEmpl": [
 	{
 		"DEPARTMENT": "Customer Service"
 	}
 ],
-	"4_AvgOrdVal": [
+	"AvgOrdVal": [
 	{
 		"Average Order Value": "1943.95"
 	}	
 ],
-	"5_Top10": [
+	"Top10": [
 	{
 		"ID": "42",
 		"NAME": "Michael Holz",
