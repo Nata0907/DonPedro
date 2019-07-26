@@ -106,5 +106,87 @@
 		"NAME": "Elizabeth Lincoln",
 		"TOTAL": "10609.15"
 	}
+],
+	"6_CustPerCountry": [
+	{
+		"country": "Argentina",
+		"Customer Amount": "4",
+		"Total Sum": "5533.25"
+	},
+	{
+		"country": "Italy",
+		"Customer Amount": "4",
+		"Total Sum": "6133.5"
+	},
+	{
+		"country": "Finland",
+		"Customer Amount": "4",
+		"Total Sum": "7370.5"
+	},
+	{
+		"country": "Austria",
+		"Customer Amount": "7",
+		"Total Sum": "11540.75"
+	},
+	{
+		"country": "Belgium",
+		"Customer Amount": "5",
+		"Total Sum": "11567.7"
+	},
+	{
+		"country": "UK",
+		"Customer Amount": "11",
+		"Total Sum": "12388.15"
+	},
+	{
+		"country": "Denmark",
+		"Customer Amount": "5",
+		"Total Sum": "13033.5"
+	},
+	{
+		"country": "Mexico",
+		"Customer Amount": "9",
+		"Total Sum": "15013.8"
+	},
+	{
+		"country": "Sweden",
+		"Customer Amount": "5",
+		"Total Sum": "20471.650000000001"
+	},
+	{
+		"country": "USA",
+		"Customer Amount": "25",
+		"Total Sum": "29500.6"
+	},
+	{
+		"country": "Switzerland",
+		"Customer Amount": "12",
+		"Total Sum": "31740.400000000001"
+	},
+	{
+		"country": "France",
+		"Customer Amount": "20",
+		"Total Sum": "33924.300000000003"
+	},
+	{
+		"country": "Canada",
+		"Customer Amount": "15",
+		"Total Sum": "33960.15"
+	},
+	{
+		"country": "Brazil",
+		"Customer Amount": "20",
+		"Total Sum": "38537.25"
+	},
+	{
+		"country": "Spain",
+		"Customer Amount": "19",
+		"Total Sum": "53583.6"
+	},
+	{
+		"country": "Germany",
+		"Customer Amount": "33",
+		"Total Sum": "60602.5"
+	}	
 ]
 }
