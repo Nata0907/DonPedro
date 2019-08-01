@@ -1,0 +1,110 @@
+- організаційна структура та відображення в БД 
+- Loyalty campaign for customers 
+- Оптимізація логістичних витрат
+- Оптимізація обрахунку витрат
+- Бонусна система для персоналу 
+
+1. Який працівник в якому відділи числиться:
+SELECT departments.dept_name, employees.emp_name
+FROM employees 
+JOIN departments ON employees.dept_id = departments.dept_id
+ORDER BY dept_name
+
+2. Працівники, які не належать до жодного відділу компанії:
+SELECT * FROM employees WHERE dept_id is null
+ORDER BY dept_id ASC;
+
+3. Відділи,у яких немає жодного працівника
+SELECT departments.dept_name FROM departments 
+WHERE NOT EXISTS
+(SELECT employees.dept_id FROM employees WHERE employees.dept_id = departments.dept_id)
+
+4. Для організації маркетингової кампанії:
+SELECT round (AVG(order_value),2) as "Average Order Value" FROM orders
+
+5.10 клієнтів, які купили найбільше - надати додаткові бонуси
+SELECT customers.cust_id, customers.cust_name, SUM (orders.order_value) as total 
+FROM customers JOIN orders
+WHERE customers.cust_id = orders.cust_id
+GROUP BY customers.cust_id 
+order by total desc LIMIT 10
+
+6. в якій країні найменше замовлень - зайнятися розвитком регіону і заохоченям клієнтів 
+SELECT customers.country, count (orders.cust_id) as "Customer Amount", round (SUM (orders.order_value),2) as "Total Sum"
+FROM customers JOIN orders
+WHERE customers.cust_id = orders.cust_id
+GROUP BY customers.country
+order by 3 asc
+
+
+7. Загальні продажі товарів - переглянути номенклатуру товарів для оптимізації запасів, якщо такі є)
+SELECT products.product_name, SUM(order_details.units)as total_quantity 
+FROM order_details
+JOIN products
+WHERE order_details.product_id = products.product_id
+GROUP BY order_details.product_id
+ORDER BY 2 desc
+
+
+8. Товарів якої категорії ми найбільше продали: загальна кількість одиниць + загальна сума - для аналізу товарів, якими торгуємо
+CREATE TABLE purchases_per_cat AS
+SELECT categories.category_name, products.product_name, SUM(order_details.units) as total_quantity,
+SUM(order_details.units) * products.price as buying_sum
+FROM  categories
+JOIN products, order_details
+WHERE categories.category_id = products.category_id and products.product_id = order_details.product_id
+GROUP BY products.product_name
+ORDER BY 1 asc
+
+SELECT category_name as Category, sum(total_quantity) as "Total Quantity", round (sum (buying_sum),2) as "Total Sum" FROM purchases_per_cat
+GROUP BY category_name
+ORDER BY 3 DESC                         		
+
+DROP TABLE purchases_per_cat - опціонально :-)
+
+
+9. Кількості по позиційно та суми продаж товарів, доставлених певними постачальниками - для отримання бонусів від постачальника
+SELECT suppliers.supplier_name, products.product_name, SUM(order_details.units) as total_quantity,
+round(SUM(order_details.units) * products.price, 2) as buying_sum
+FROM  suppliers
+JOIN products, order_details
+WHERE suppliers.supplier_id = products.supplier_id and products.product_id = order_details.product_id
+GROUP BY products.product_name
+ORDER BY 1 asc
+
+
+10. Товарів якого постачальника ми найбільше продали: загальна кількість + загальна сума
+CREATE TABLE purchases AS
+SELECT suppliers.supplier_name, products.product_name, SUM(order_details.units) as total_quantity,
+SUM(order_details.units) * products.price as buying_sum
+FROM  suppliers
+JOIN products, order_details
+WHERE suppliers.supplier_id = products.supplier_id and products.product_id = order_details.product_id
+GROUP BY products.product_name
+ORDER BY 1 asc
+
+SELECT supplier_name, sum(total_quantity), sum (buying_sum) FROM purchases
+GROUP BY supplier_name
+ORDER BY 3 DESC
+
+DROP TABLE purchases - опціонально :-)
+
+
+
+
+
+кількість товарів по категоріям
+SELECT 	categories.category_name, COUNT(products.product_name) as prd_count
+FROM categories
+JOIN products WHERE categories.category_id = products.category_id
+GROUP BY categories.category_name
+ORDER BY 1 
+
+
+
+
+
+
+
+
+
